@@ -19,6 +19,7 @@
 
     *  Release Notes
         *  Grid:
+        
             none.
 
         * Bamboo-Lake3:
@@ -26,9 +27,11 @@
             2. Node.js running background.
 
         *  Daemon:
+        
             none.
             
         *  Magpie3:
+        
             none.
         
 
@@ -37,4 +40,5 @@
 *Previous Version*
 
 **SUMMIT Reader: 00.01.17.03**
+
 **SUMMIT Server: 00.01.14.03**
