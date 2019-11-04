@@ -4,7 +4,7 @@
 
 **SUMMIT Server: 00.01.15.04**
 
-* [ ] Testing passed. 
+* [x] Testing passed. 
 
       **Test plan version: _v0.2.4_**,    **Date: _2019/10/24_**,     **Sign: _Michael_**
 
