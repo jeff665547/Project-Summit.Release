@@ -1,0 +1,87 @@
+***Latest Version***
+
+**SUMMIT Reader: A version after 20190712**
+
+
+* [x] Testing passed. 
+
+      **Test plan version: _v0.1.0_**,    **Date: _2019/07/15_**,     **Sign: _Michael_**, 
+      
+      **Tested software version: 20190712**,  **Note: Simplified Chinese logo problem.**
+
+* [ ] Customers' devices status checked. 
+
+      **Date:________**,   **Sign:________**
+
+* [ ] Softwares installed and operations checked. 
+
+      **Date:________**,   **Sign:________**
+
+*  **Content**
+    *  Submodule Version
+        *  Grid: **v1.0.2**,        **Date:_2019/07/11_**
+        *  Daemon: **unknown**,        **Date:unknown**
+        *  Magpie3: **unknown**,       **Date:unknown**
+
+    *  Release Notes
+        *  Grid:
+            1.  Feature: Use micron distance to record the grid line position in grid log.
+            2.  Bugfix: marker append FOV add boundary highlight.
+            3.  Feature: Formal grid log, include fov, channel and many parameters.
+            4.  Feature: None auto grid mode, use modified grid log as input, summit.grid will re-generate all output.
+            5.  Feature: Raw image generate in secure directory and grid/channels/*/viewable_raw.
+            6.  Feature: debug mode remake, thread supported log.
+            7.  Feature: Marker append image from 2x9x(3x3) => 2x9x9.
+            8.  Feature: Remove FOV image generate in grid/channels/*/viewable_norm, only preserve the stitched image.
+            9.  Support M/pT marker type.
+            10. Add grid log into channel directory.
+            11. Bugfix: Avoid one task fail, abort all tasks in mutli-task mode. 
+            12. Bugfix: Avoid ArUco detector crash.
+            13. ArUco support grdding algorithm: grid location.
+            14. ArUco support grdding algorithm: rotation estimation, micron to pixel compute.
+            15. Better viewable image auto contrast adjustor.
+            16. Light mean analysis add 3 row analysis.
+            17. Bugfix: Avoid multi-task mode consume all memory and crash.
+
+        *  Daemon:
+
+            unknown.
+            
+        *  Magpie3:
+
+            unknown.
+            
+        
+
+=============================================================================================
+
+***Previous Version***
+
+**SUMMIT Reader: None**
+
+**SUMMIT Server: None**
+
+
+1. Feature: Use micron distance to record the grid line position in grid log
+2. Bugfix: marker append FOV add boundary highlight
+
+3. Feature: Formal grid log, include fov, channel and many parameters
+4. Feature: None auto grid mode, use modified grid log as input, summit.grid will re-generate all output
+5. Feature: Raw image generate in secure directory and grid/channels/*/viewable_raw
+6. Feature: debug mode remake, thread supported log
+7. Feature: Marker append image from 2x9x(3x3) => 2x9x9
+8. Feature: Remove FOV image generate in grid/channels/*/viewable_norm, only preserve the stitched image
+ 
+9. Support M/pT marker type
+10. Add grid log into channel directory
+ 
+11. Bugfix: Avoid one task fail, abort all tasks in mutli-task mode 
+12. Bugfix: Avoid ArUco detector crash
+ 
+13. ArUco support grdding algorithm: grid location
+ 
+14. ArUco support grdding algorithm: rotation estimation, micron to pixel compute
+ 
+15. Better viewable image auto contrast adjustor
+16. Light mean analysis add 3 row analysis
+17. Bugfix: Avoid multi-task mode consume all memory and crash
