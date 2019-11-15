@@ -27,7 +27,6 @@
 
     *  Release Notes
         *  Grid:
-
             1.  Bugfix: ...
             2.  Update: ...
             3.  Roll back from version ... to version ... due to:
