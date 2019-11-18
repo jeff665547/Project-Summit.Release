@@ -7,5 +7,5 @@ e.g. USA-v0.2.5.0
 < software bugfix >.
 ...
 
-* For the CFDA branch, please go to http://gitlab.centrilliontech.com.tw:10080/centrillion/Summit.Installer/tree/chinese-FDA/ to prepare the installer.
+* For the CFDA branch, please go to http://gitlab.centrilliontech.com.tw:10080/centrillion/Summit.Installer/tree/magpie2-and-bamboolake2 to prepare the installer.
 * For the USA and China branch , please go to http://gitlab.centrilliontech.com.tw:10080/centrillion/Summit.Installer/tree/master to prepare the installer.
