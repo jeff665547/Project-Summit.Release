@@ -2,9 +2,9 @@
 
 ***Software Spec (Test) Version: CFDA-v0.1.5***
 
-**SUMMIT Reader: **
+**SUMMIT Reader:**
 
-**SUMMIT Server: **
+**SUMMIT Server:**
 
 * [ ] Testing passed. 
 
@@ -50,6 +50,6 @@
 
 ***Previous Version***
 
-**SUMMIT Reader: **
+**SUMMIT Reader:**
 
-**SUMMIT Server: **
+**SUMMIT Server:**
