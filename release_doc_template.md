@@ -2,9 +2,9 @@
 
 ***Software Spec (Test) Version: USA-v0.2.5***
 
-**SUMMIT Reader: 00.01.19.00**
+**SUMMIT Reader: USA-v0.2.5.00**
 
-**SUMMIT Server: 00.01.19.00**
+**SUMMIT Server: USA-v0.2.5.00**
 
 * [ ] Testing passed. 
 
