@@ -1,6 +1,6 @@
 ***Latest Version***
 
-***Software Spec (Test) Version: CFDA-v0.1.5***
+***Software Spec (Test) Version: CFDA-v0.1.6***
 
 **SUMMIT Reader:**
 
