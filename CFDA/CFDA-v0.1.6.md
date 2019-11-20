@@ -40,7 +40,6 @@
 			12. Update: ArUco matching update
 			13. Source code: MSVC build support
 				1. Currently only support Visual Studio 2017 v15.9.
-				
 			14. Update: light mean application output detail probe informations.
 			15. Bugfix: CEN file Channel ID not match specification.
 			16. Bugfix: debug flag effect the image process behavior
@@ -59,7 +58,6 @@
 			10. Change channel default configuration:
 				1. green -> 0.25 sec.
 				2. red -> 1 sec.
-
             11. CFDA: remove failed chip stage.
 			12. CFDA: extend available date (~2020/06).
 
