@@ -70,6 +70,6 @@
 
 ***Previous Version***
 
-**SUMMIT Reader:**
+**SUMMIT Reader: A version after 20190712**
 
-**SUMMIT Server:**
+**SUMMIT Server: A version after 20190712**
