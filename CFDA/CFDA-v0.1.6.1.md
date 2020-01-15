@@ -12,11 +12,13 @@
 
 * [ ] Customers' devices status checked.
 
-      **Date: ____________**,   **Sign: ____________**
+      **Date: 2020/01/15**,   **Sign: Joye Li**
+      
+      Note. This is CFDA computer
 
 * [ ] Softwares installed and operations checked. 
 
-      **Date: ____________**,   **Sign: ____________**
+      **Date: 2020/01/15**,   **Sign: Joye Li**
 
 *  **Content**
     *  Submodule Version
