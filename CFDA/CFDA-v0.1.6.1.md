@@ -10,13 +10,13 @@
 
       **Date: 2019/11/20**,     **Sign: Michael**
 
-* [ ] Customers' devices status checked.
+* [x] Customers' devices status checked.
 
       **Date: 2020/01/15**,   **Sign: Joye Li**
       
       Note. This is CFDA computer
 
-* [ ] Softwares installed and operations checked. 
+* [x] Softwares installed and operations checked. 
 
       **Date: 2020/01/15**,   **Sign: Joye Li**
 
@@ -68,7 +68,7 @@
 			2.  Fix shows that the disk is full.
 			3.  Add account login.
 
-* Software out: CFDA-20191120 @ smtdata\jeff\CFDA\CFDA-20191120
+* Software Publish: CFDA-20191120 @ smtdata\jeff\CFDA\CFDA-20191120
 
 =============================================================================================
 
