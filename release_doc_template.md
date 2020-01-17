@@ -45,7 +45,7 @@
         
             none.
         
-* Software Publish: 
+* **Software Publish** 
     * server-setup
     * reader-setup
 

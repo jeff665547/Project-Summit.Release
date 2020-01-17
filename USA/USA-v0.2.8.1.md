@@ -48,7 +48,7 @@
         *  Magpie3:
             1. New "ChangeLog.md" format deinfe. Add [US/CN] before function to specify who could use it.
         
-* Software Publish: 
+* **Software Publish**
     * server-setup-20.2.8.2 @ smtdata\john\Summit_builds\server-setup-20.2.8.2
     * reader-setup-20.2.8.2 @ smtdata\john\Summit_builds\reader-setup-20.2.8.2
 

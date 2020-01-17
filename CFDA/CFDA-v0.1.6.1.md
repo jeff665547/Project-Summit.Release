@@ -68,7 +68,8 @@
 			2.  Fix shows that the disk is full.
 			3.  Add account login.
 
-* Software Publish: CFDA-20191120 @ smtdata\jeff\CFDA\CFDA-20191120
+* **Software Publish**
+	* CFDA-20191120 @ smtdata\jeff\CFDA\CFDA-20191120
 
 =============================================================================================
 
