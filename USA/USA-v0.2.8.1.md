@@ -18,13 +18,13 @@
       *  Daemon: **USI-v1.14.21**, 
       *  Magpie3: **USA-v0.2.8.2**,    
 
-* [ ] Customers' devices status checked. 
+* [x] Customers' devices status checked. 
 
-      **Date: ____________**,   **Sign: ____________**
+      **Date: 2020/01/22**,   **Sign: Joye Li**
 
-* [ ] Softwares installed and operations checked. 
+* [x] Softwares installed and operations checked. 
 
-      **Date: ____________**,   **Sign: ____________**
+      **Date: 2020/01/22**,   **Sign: Joye Li**
 
 *  **Content**
     *  Submodule Version
