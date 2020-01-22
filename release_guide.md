@@ -23,7 +23,7 @@
     * The first number following the first decimal (2) stands for the software spec architecture update.
     * The first number following the second decimal (5) stands for the software spec feature update.
     * The first number following the third decimal (1) stands for the software bugfix.
-    * The second character following the third decimal (b) stands for the temporary release (optional).
+    * (Optional) The second character following the third decimal (b) stands for the temporary release.
 
 * Release Note
 
