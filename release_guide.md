@@ -11,13 +11,14 @@
 
 * Installer Version
 
-    e.g. 00.2.5.1
+    e.g. 00.2.5.1b
     
-    * The first digital represents the branch name, 0 stands for the CFDA branch, 1 stands for the China branch, and the 2 stands for the USA branch.
-    * The second digital represents the layout design version for the test spec, (backup).
-    * The first number following the first decimal stands for the software spec architecture update.
-    * The first number following the second decimal stands for the software spec feature update.
-    * The first number following the third decimal stands for the software bugfix.
+    * The first digital (0) represents the branch name, 0 stands for the CFDA branch, 1 stands for the China branch, and the 2 stands for the USA branch.
+    * The second digital represents (0) the layout design version for the test spec, (backup).
+    * The first number following the first decimal (2) stands for the software spec architecture update.
+    * The first number following the second decimal (5) stands for the software spec feature update.
+    * The first number following the third decimal (1) stands for the software bugfix.
+    * The second character following the third decimal (b) stands for the temporary release.
 
 * Release Note
 
