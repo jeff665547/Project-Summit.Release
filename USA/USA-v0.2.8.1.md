@@ -2,13 +2,21 @@
 
 ***Software Spec (Test) Version: USA-v0.2.8***
 
-**SUMMIT Reader: USA-v0.2.8.2**
+**SUMMIT Reader: USA-v0.2.8.2a**
 
-**SUMMIT Server: USA-v0.2.8.2**
+**SUMMIT Server: USA-v0.2.8.2a**
 
 * [x] Testing passed. 
 
-      **Date: 2020/01/15**,     **Sign: Cynthia & Elina**
+      **Date: 2020/01/15**,     **Sign: Cynthia & Elina**,
+      
+      **Tested Version: (SUMMIT Reader, SUMMIT Server) USA-v0.2.8.2**
+      
+      **Submodule Version**
+      *  Grid: **v1.1.1**, 
+      *  Bamboo-Lake3: **USA-v0.2.8.1**
+      *  Daemon: **USI-v1.14.21**, 
+      *  Magpie3: **USA-v0.2.8.2**,    
 
 * [ ] Customers' devices status checked. 
 
@@ -20,7 +28,7 @@
 
 *  **Content**
     *  Submodule Version
-        *  Grid: **v1.1.1**,          Date: **2019/12/24**
+        *  Grid: **v1.1.1.1**,          Date: **2019/12/24**
         *  Bamboo-Lake3: **USA-v0.2.8.1**, Date: **2020/01/07**
         *  Daemon: **USI-v1.14.21**,     Date: **2020/01/02**
         *  Magpie3: **USA-v0.2.8.2**,    Date: **2019/11/04**
@@ -32,6 +40,7 @@
             3. Update: Improve BF and FL marker detection process
             4. Update: Image debug level 2 -> 5.
             5. Bugfix: Numerical type accuracy and chip specification mismatch cause miss inference of grid lines by 1~2 pixel.
+            6. (None Testing) Update: Marker Post. 
 
         * Bamboo-Lake3:
             1. Change the default RFID update website.
@@ -49,8 +58,8 @@
             1. New "ChangeLog.md" format deinfe. Add [US/CN] before function to specify who could use it.
         
 * **Software Publish**
-    * server-setup-20.2.8.2 @ smtdata\john\Summit_builds\server-setup-20.2.8.2
-    * reader-setup-20.2.8.2 @ smtdata\john\Summit_builds\reader-setup-20.2.8.2
+    * server-setup-20.2.8.2a @ smtdata\john\Summit_builds\server-setup-20.2.8.2a
+    * reader-setup-20.2.8.2a @ smtdata\john\Summit_builds\reader-setup-20.2.8.2a
 
 =============================================================================================
 
