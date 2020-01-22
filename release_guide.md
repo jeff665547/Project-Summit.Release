@@ -1,15 +1,20 @@
-* Spec Version
+* Release Version
 
-    e.g. USA-v0.2.5.0
+    e.g. USA-v0.2.5.1
+    
+    < Test Spec Version >.< Release Times >
+
+* Test Spec Version
+
+    e.g. USA-v0.2.5
 
     < branch name >
     -v< layout design version for the test spec, (backup) >.
-    < software spec architecture update >.
+    < software spec architecture change >.
     < software spec feature update >.
-    < software bugfix >.
     ...
 
-* Installer Version
+* Installer Version (SUMMIT Reader, SUMMIT Server)
 
     e.g. 00.2.5.1b
     
@@ -18,7 +23,7 @@
     * The first number following the first decimal (2) stands for the software spec architecture update.
     * The first number following the second decimal (5) stands for the software spec feature update.
     * The first number following the third decimal (1) stands for the software bugfix.
-    * The second character following the third decimal (b) stands for the temporary release.
+    * The second character following the third decimal (b) stands for the temporary release (optional).
 
 * Release Note
 
