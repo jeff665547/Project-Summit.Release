@@ -10,7 +10,7 @@
 
       **Date: 2020/01/15**,     **Sign: Cynthia & Elina**,
       
-      **Tested Version: (SUMMIT Reader, SUMMIT Server) USA-v0.2.8.2**
+      **Tested Version: (SUMMIT Reader: USA-v0.2.8.2, SUMMIT Server: USA-v0.2.8.2)**
       
       **Submodule Version**
       *  Grid: **v1.1.1**, 
