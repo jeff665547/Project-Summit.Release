@@ -2,15 +2,15 @@
 
 ***Software Spec (Test) Version: USA-v0.2.8***
 
-**SUMMIT Reader: USA-v0.2.8.2a**
+**SUMMIT Reader: 20.2.8.2a**
 
-**SUMMIT Server: USA-v0.2.8.2a**
+**SUMMIT Server: 20.2.8.2a**
 
 * [x] Testing passed. 
 
       **Date: 2020/01/15**,     **Sign: Cynthia & Elina**,
       
-      **Tested Version: (SUMMIT Reader: USA-v0.2.8.2, SUMMIT Server: USA-v0.2.8.2)**
+      **Tested Version: (SUMMIT Reader: 20.2.8.2, SUMMIT Server: 20.2.8.2)**
       
       **Submodule Version**
       *  Grid: **v1.1.1**, 
