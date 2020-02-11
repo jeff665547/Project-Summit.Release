@@ -43,6 +43,7 @@
         *  Daemon:
             1. Update: camera API use loose scoring to decision camera dead state.
             2. Bugfix: version display error.
+			3. Update: extend self crash deadline.
             
         *  Magpie3:
             1. New "ChangeLog.md" format deinfe. Add [US/CN] before function to specify who could use it.
