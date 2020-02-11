@@ -10,13 +10,13 @@
 
       **Date: 2020/01/22**,     **Sign: Cynthia & Elina**
 
-* [ ] Customers' devices status checked. 
+* [x] Customers' devices status checked. 
 
-      **Date: **,   **Sign: ____________**
+      **Date: 2020/2/11**,   **Sign: vons**
 
-* [ ] Softwares installed and operations checked. 
+* [x] Softwares installed and operations checked. 
 
-      **Date: ____________**,   **Sign: ____________**
+      **Date: 2020/2/11**,   **Sign: vons**
 
 *  **Content**
     *  Submodule Version
