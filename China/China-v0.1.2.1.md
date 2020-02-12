@@ -1,6 +1,6 @@
 ***Latest Version***
 
-***Software Spec (Test) Version: China-v0.2.1***
+***Software Spec (Test) Version: China-v0.1.2***
 
 **SUMMIT Reader: 10.1.2.2**
 
