@@ -28,7 +28,7 @@
 
 *  **Content**
     *  Submodule Version
-        *  Grid: **v1.1.1.1**,          Date: **2019/12/24**
+        *  Grid: **v1.1.1.1**,          Date: **2020/01/22**
         *  Bamboo-Lake3: **USA-v0.2.8.1**, Date: **2020/01/07**
         *  Daemon: **USI-v1.14.21**,     Date: **2020/01/02**
         *  Magpie3: **USA-v0.2.8.2**,    Date: **2019/11/04**
