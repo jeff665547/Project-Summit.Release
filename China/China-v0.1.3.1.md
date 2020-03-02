@@ -2,13 +2,13 @@
 
 ***Software Spec (Test) Version: China-v0.1.3***
 
-**SUMMIT Reader: 10.1.3.4**
+**SUMMIT Reader: 10.1.3.0a**
 
-**SUMMIT Server: 10.1.3.4**
+**SUMMIT Server: 10.1.3.0a**
 
-* [x] Testing passed. 
+* [ ] Testing passed. 
 
-      **Date: 2020/02/27**,     **Sign: Cynthia & Elina**
+      **Special permission: JHH**
 
 * [ ] Customers' devices status checked. 
 
@@ -22,8 +22,8 @@
     *  Submodule Version
         *  Grid: **v1.1.1.1**,          Date: **2020/01/22**
         *  Bamboo-Lake3: **CN-v0.1.3.3**,  Date: **2020/02/26**
-        *  Daemon: **CNI-v1.15.3**,        Date: **2020/02/26**
-        *  Magpie3: **CN-v0.1.3.6**,       Date: **2020/02/27**
+        *  Daemon: **CNI-v1.14.21**,        Date: **2020/01/02**
+        *  Magpie3: **CN-v0.1.3.7**,       Date: **2020/03/02**
 
     *  Release Notes
         *  Grid:
@@ -35,22 +35,7 @@
             3. Fix image gridding download.
 
         *  Daemon:
-            1. Update: abort command now check task running status and surely abort the task. The old implementation is time based check and may not abort the running task if the time duration between abort check points is too long.
-            2. Feature: LED used time related function.
-            3. Feature: Final error handling and time stability checker
-            4. Feature: Auto scan and related setting.
-            5. Feature: PLATE_MOVE_IN(OUT) command added.
-            6. Feature: Camera re-open flow.
-            7. Update: Remove RFID read during tray scanning.
-            8. Update: COVER_SWITCH close not move plate.
-            9. Development: Bring all critical unit test back.
-            10. Reduce log noise.
-            11. Camera long exposure time protect.
-            12. LED used time QAQC display use HH:MM::SS.
-            13. Version only show 2 digits.
-            14. Bugfix: scan and camera preview conflict.
-            15. Bugfix: mainboard de-initialize crash.
-            16. Bugfix: exception not send to client.
+            none
             
         *  Magpie3:
             1. Optimize scan module initialization.
@@ -72,10 +57,12 @@
             17. Feature: Optimize initialization.
             18. Bugfix: Prevent image sync with same source and destination.
             19. Bugfix: Prevent image sync with same source and destination.
+            20. Feature: Add license expired view.
+            21: Bugfix: Calibration rectangle not show in preview.
         
 * **Software Publish** 
-    * server-setup-10.1.3.4 @ smtdata\john\Summit_builds\server-setup-10.1.3.4
-    * reader-setup-10.1.3.4 @ smtdata\john\Summit_builds\server-setup-10.1.3.4
+    * server-setup-10.1.3.0a @ smtdata\john\Summit_builds\server-setup-10.1.3.0a
+    * reader-setup-10.1.3.0a @ smtdata\john\Summit_builds\server-setup-10.1.3.0a
 
 =============================================================================================
 
