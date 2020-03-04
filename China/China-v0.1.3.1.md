@@ -10,13 +10,13 @@
 
       **Special permission: JHH**
 
-* [ ] Customers' devices status checked. 
+* [x] Customers' devices status checked. 
 
-      **Date: ____________**,   **Sign: ____________**
+      **Date: 2020/3/2**,   **Sign: vons**
 
-* [ ] Softwares installed and operations checked. 
+* [x] Softwares installed and operations checked. 
 
-      **Date: ____________**,   **Sign: ____________**
+      **Date: 2020/3/2**,   **Sign: vons**
 
 *  **Content**
     *  Submodule Version
