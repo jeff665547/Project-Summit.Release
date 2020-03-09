@@ -27,6 +27,7 @@
 
     *  Release Notes
         *  Grid:
+        
             none.
 
         * Bamboo-Lake3:
