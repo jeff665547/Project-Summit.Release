@@ -14,9 +14,11 @@
 
       **Date: ____________**,   **Sign: ____________**
 
-* [ ] Softwares installed and operations checked. 
+* [X] Softwares installed and operations checked. 
 
-      **Date: ____________**,   **Sign: ____________**
+      **Date: 2020/3/11**,   **Sign: vons**
+      
+      only update one reader, IP: 192.168.107.41
 
 *  **Content**
     *  Submodule Version
