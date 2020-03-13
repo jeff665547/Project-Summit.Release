@@ -19,6 +19,7 @@
       **Date: 2020/3/11**,   **Sign: vons**
       
       only update one reader, IP: 192.168.107.41
+      For further information, see http://gitlab.centrilliontech.com.tw:10080/centrillion/Summit.Release/issues/1 
 
 *  **Content**
     *  Submodule Version
