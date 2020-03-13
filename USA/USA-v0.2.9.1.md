@@ -16,7 +16,7 @@
 
 * [X] Softwares installed and operations checked. 
 
-      **Date: 2020/3/11**,   **Sign: vons**
+      **Date: 2020/3/9**,   **Sign: vons**
 
 *  **Content**
     *  Submodule Version
