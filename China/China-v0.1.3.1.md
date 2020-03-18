@@ -35,6 +35,7 @@
             3. Fix image gridding download.
 
         *  Daemon:
+        
             none
             
         *  Magpie3:
