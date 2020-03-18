@@ -62,7 +62,7 @@
         
 * **Software Publish** 
     * server-setup-10.1.3.0a @ smtdata\john\Summit_builds\server-setup-10.1.3.0a
-    * reader-setup-10.1.3.0a @ smtdata\john\Summit_builds\server-setup-10.1.3.0a
+    * reader-setup-10.1.3.0a @ smtdata\john\Summit_builds\reader-setup-10.1.3.0a
 
 =============================================================================================
 
