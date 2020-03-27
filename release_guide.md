@@ -1,4 +1,4 @@
-* Release Documentation Version
+* Release Note Version
 
     e.g. USA-v0.2.5.1
     
