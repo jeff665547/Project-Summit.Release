@@ -14,9 +14,11 @@
 
       **Date: ____________**,   **Sign: ____________**
 
-* [ ] Softwares installed and operations checked. 
+* [x] Softwares installed and operations checked. 
 
-      **Date: ____________**,   **Sign: ____________**
+      **Date: 2020/3/31**,   **Sign: vons**
+      Only update the computer 181 and 694, computer 249 does not update this time due to the customer's requirement.
+     
 
 *  **Content**
     *  Submodule Version
