@@ -14,9 +14,10 @@
 
       **Date: ____________**,   **Sign: ____________**
 
-* [ ] Softwares installed and operations checked. 
+* [x] Softwares installed and operations checked. 
 
-      **Date: ____________**,   **Sign: ____________**
+      **Date: 2020/4/6**,   **Sign: vons**
+      Only update the computer 192.168.107.24
 
 *  **Content**
     *  Submodule Version
