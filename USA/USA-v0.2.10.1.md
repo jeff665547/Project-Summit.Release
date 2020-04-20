@@ -1,6 +1,6 @@
 ***Latest Version***
 
-***Software Spec (Test) Version: USA-v0.2.5***
+***Software Spec (Test) Version: USA-v0.2.10***
 
 **SUMMIT Reader: 20.2.10.1**
 
