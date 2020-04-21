@@ -14,9 +14,11 @@
 
       **Date: ____________**,   **Sign: ____________**
 
-* [ ] Softwares installed and operations checked. 
+* [x] Softwares installed and operations checked. 
 
-      **Date: ____________**,   **Sign: ____________**
+      **Date: 2020/4/20**,   **Sign: Vons**
+      -Both PC.24 and PC.41 show the "camera plug off" message after the initializing of Magpie, it seems Summit turn off.
+      -PC.61 can run the bamboo lake by uses the Edge but it can not show the option item in the drop-down menu.
 
 *  **Content**
     *  Submodule Version
