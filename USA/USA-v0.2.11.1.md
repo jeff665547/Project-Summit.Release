@@ -65,7 +65,7 @@
         
 * **Software Publish** 
     * server-setup-20.2.11.6 @ smtdata\john\Summit_builds\server-setup-20.2.11.6
-    * reader-setup-20.2.11.6 @ smtdata\john\Summit_builds\server-setup-20.2.11.6
+    * reader-setup-20.2.11.6 @ smtdata\john\Summit_builds\reader-setup-20.2.11.6
 
 =============================================================================================
 
