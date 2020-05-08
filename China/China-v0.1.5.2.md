@@ -2,9 +2,9 @@
 
 ***Software Spec (Test) Version: China-v0.1.5***
 
-**SUMMIT Reader: 20.2.11.6a**
+**SUMMIT Reader: 10.1.5.5a**
 
-**SUMMIT Server: 20.2.11.6a**
+**SUMMIT Server: 10.1.5.5a**
 
 * [ ] Testing passed. 
 
