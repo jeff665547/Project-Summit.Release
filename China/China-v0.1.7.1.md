@@ -42,7 +42,7 @@
             
         *  Magpie3:
             1. Bugfix: error diagnosis.
-            2. Feature: L1B, Y3C support
+            2. Feature: L1B, Y3C support.
             3. Feature: New license expired detection workflow.
             4. Feature: Scan module better diagnosis steps.
             5. Feature: Scan module able to handle daemon crash resume during scanning.
