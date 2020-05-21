@@ -14,10 +14,10 @@
 
       **Date: ____________**,   **Sign: ____________**
 
-* [ ] Softwares installed and operations checked. 
+* [x] Softwares installed and operations checked. 
 
-      **Date: ____________**,   **Sign: ____________**
-
+      **Date: 2020/5/20**,   **Sign: vons**
+      Provide the installation file for the customer to update the software by himself.
 *  **Content**
     *  Submodule Version
         *  Grid: **v1.1.6-l1bsp2**,          Date: **2020/5/13**
