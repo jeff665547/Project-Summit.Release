@@ -14,9 +14,10 @@
 
       **Date: ____________**,   **Sign: ____________**
 
-* [ ] Softwares installed and operations checked. 
+* [x] Softwares installed and operations checked. 
 
-      **Date: ____________**,   **Sign: ____________**
+      **Date: 2020/5/22**,   **Sign: vons**
+Just installed the reader-10.1.7.0c for one PC(594) by customer's requestment, this version 10.1.7.0c has no test.
 
 *  **Content**
     *  Submodule Version
