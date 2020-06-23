@@ -40,7 +40,7 @@
 * **Software Publish** 
     * reader-setup-40.1.0.0 @ smtdata\john\Summit_builds\reader-setup-40.1.0.0
 
-    or https://centrilliontechtw-my.sharepoint.com/:f:/g/personal/jeffho_centrilliontech_com_tw/EszoMSDmBvRPoDLnl2i_blMBH63d2gHUkYPdhjDA4CD2xg?e=JIsO5p
+    or https://centrilliontechtw-my.sharepoint.com/:f:/g/personal/jeffho_centrilliontech_com_tw/Ehjmear79X9FjwuFLV6VfisB4rG-C_rvVzy1WoDMSzkMrg?e=09fWHf
     
 =============================================================================================
 
