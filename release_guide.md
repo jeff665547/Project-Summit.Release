@@ -28,4 +28,5 @@
 * Release Note
 
     * For the CFDA branch, please go to http://gitlab.centrilliontech.com.tw:10080/centrillion/Summit.Installer/tree/magpie2-and-bamboolake2 to prepare the installer.
+    * For the USFDA branch, please go to http://gitlab.centrilliontech.com.tw:10080/centrillion/Summit.Installer/tree/covid19-fda to prepare the installer.
     * For the USA and China branch , please go to http://gitlab.centrilliontech.com.tw:10080/centrillion/Summit.Installer/tree/master to prepare the installer.
