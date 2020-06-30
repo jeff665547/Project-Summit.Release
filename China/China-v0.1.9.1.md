@@ -14,9 +14,10 @@
 
       **Date: ____________**,   **Sign: ____________**
 
-* [ ] Softwares installed and operations checked. 
+* [x] Softwares installed and operations checked. 
 
-      **Date: ____________**,   **Sign: ____________**
+      **Date: 2020/6/30**,   **Sign: vons**
+      All readers and servers have been updated to version 10.1.9.2. 
 
 *  **Content**
     *  Submodule Version
