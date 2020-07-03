@@ -1,0 +1,36 @@
+{
+    "input":[
+        {
+            "url": "ssh://git@gitlab.centrilliontech.com.tw:10022/centrillion/magpie3.git",
+            "version": "USA-v0.2.16.0",
+            "submodule_update": false,
+            "build_script": "buildscripts.magpie-electron8"
+        },
+        {
+            "url": "ssh://git@gitlab.centrilliontech.com.tw:10022/centrillion/bamboo-lake3.git",
+            "version": "USA-v0.2.16.4",
+            "submodule_update": false,
+            "build_script": "buildscripts.bamboolake"
+        },
+        {
+            "url": "ssh://git@gitlab.centrilliontech.com.tw:10022/centrillion/Summit.Daemon.git",
+            "version": "USI-v1.15.24",
+            "submodule_update":true,
+            "build_script": "buildscripts.summitdaemon"
+        },
+        {
+            "url": "ssh://git@gitlab.centrilliontech.com.tw:10022/centrillion/Summit.Grid.git",
+            "version": "v1.1.16",
+            "submodule_update":true,
+            "build_script": "buildscripts.summitgrid"
+        }
+    ],
+    "bundle": {
+        "reader": {
+            "version": "20.2.16.5"
+        },
+        "server": {
+            "version": "20.2.16.5"
+        }
+    }
+}

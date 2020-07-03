@@ -2,11 +2,11 @@
 
 ***Software Spec (Test) Version: USFDA-v0.1.0***
 
-**SUMMIT Reader: 40.1.0.0**
+**SUMMIT Reader: 40.1.0.2**
 
-* [ ] Testing passed. 
+* [x] Testing passed. 
 
-      **Date: ____________**,   **Sign: Cynthia & Elina**
+      **Date: 2020/07/03**,   **Sign: Cynthia & Elina**
 
 * [ ] Customers' devices status checked. 
 
@@ -18,27 +18,27 @@
 
 *  **Content**
     *  Submodule Version
-        *  Grid: **v1.1.14**,          Date: **2020/6/4**
-        *  Grid-monitor: **USA-v0.2.15.3**,  Date: **2020/6/5**
-        *  Daemon: **USI-v1.15.20**,        Date: **2020/5/28**
-        *  Magpie3: **USA-v0.2.15.1**,       Date: **2020/6/4**
-        *  FW: **0C.5.9**
+        *  Grid: **v1.1.20**,          Date: **2020/6/30**
+        *  Grid-monitor: **1.0.1**,  Date: **2020/6/24**
+        *  Daemon: **USI-v1.15.25**,        Date: **2020/6/17**
+        *  Magpie3: **USFDA-v0.1.0.3**,       Date: **2020/6/24**
+        *  FW: **0C.5.13**
 
     *  Release Notes
         *  Grid:
-            1. 
+            1. A new release. (Detailed spec information is listed in the testing spec.)
 
         * Grid-monitor:
-            1. 
+            1. A new release. (Detailed spec information is listed in the testing spec.)
 
         *  Daemon:
-            1. 
+            1. A new release. (Detailed spec information is listed in the testing spec.)
 
         *  Magpie3:
-            1. 
+            1. A new release. (Detailed spec information is listed in the testing spec.)
         
 * **Software Publish** 
-    * reader-setup-40.1.0.0 @ smtdata\john\Summit_builds\reader-setup-40.1.0.0
+    * reader-setup-40.1.0.2 @ smtdata\john\Summit_builds\reader-setup-40.1.0.2
 
     or https://centrilliontechtw-my.sharepoint.com/:f:/g/personal/jeffho_centrilliontech_com_tw/Ehjmear79X9FjwuFLV6VfisB4rG-C_rvVzy1WoDMSzkMrg?e=09fWHf
     
