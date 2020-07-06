@@ -18,7 +18,7 @@
 
     e.g. 00.2.5.1b
     
-    * The first digital (0) represents the branch name, 0 stands for the CFDA branch, 1 stands for the China branch, and the 2 stands for the USA branch.
+    * The first digital (0) represents the branch name, 0 stands for the CFDA branch, 1 stands for the China branch, 2 stands for the USA branch, 4 stands for the USFDA branch, and 99 stands for the testing branch.
     * The second digital represents (0) the layout design version for the test spec, (backup).
     * The first number following the first decimal (2) stands for the software spec architecture update.
     * The first number following the second decimal (5) stands for the software spec feature update.
