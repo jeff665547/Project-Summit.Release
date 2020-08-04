@@ -2,7 +2,6 @@
 
 
 
-
 ***Latest Version***
 
 ***Software Spec (Test) Version: China-v0.1.11***
@@ -19,9 +18,10 @@
 
       **Date: ____________**,   **Sign: ____________**
 
-* [ ] Softwares installed and operations checked.
+* [x] Softwares installed and operations checked.
 
-      **Date: ____________**,   **Sign: ____________**
+      **Date: 2020/7/30**,   **Sign: vons**
+      I01-18012, I01-19006 (2 Summits) and 247 (1 server) have finished the update, and another 2 summits will be waiting for customer notification to update.
 
 *  **Content**  
     *  Submodule Version  
