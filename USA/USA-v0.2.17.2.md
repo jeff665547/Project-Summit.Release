@@ -2,7 +2,6 @@
 
 
 
-
 ***Latest Version***
 
 ***Software Spec (Test) Version:  USA-v0.2.17***
@@ -19,9 +18,10 @@
 
       **Date: ____________**,   **Sign: ____________**
 
-* [ ] Softwares installed and operations checked.
+* [x] Softwares installed and operations checked.
 
-      **Date: ____________**,   **Sign: ____________**
+      **Date: 2020/7/22**,   **Sign: vons**
+      Send a link of OneDrive to USA for software upgrade.
 
 *  **Content**  
     *  Submodule Version  
