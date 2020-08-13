@@ -1,7 +1,6 @@
 
 
 
-
 ***Latest Version***
 
 ***Software Spec (Test) Version:  USA-v0.2.17***
@@ -10,9 +9,9 @@
 
 **SUMMIT Server: 20.2.17.2**
 
-* [ ] Testing passed.
+* [x] Testing passed.
 
-      **Date: 2020/07/23**,   **Sign: Cynthia & & Elina**
+      **Date: 2020/07/23**,   **Sign: Cynthia & Elina**
 
 * [ ] Customers' devices status checked.
 
