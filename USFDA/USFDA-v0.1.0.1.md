@@ -12,9 +12,9 @@
 
       **Date: ____________**,   **Sign: ____________**
 
-* [ ] Softwares installed and operations checked. 
+* [x] Softwares installed and operations checked. 
 
-      **Date: ____________**,   **Sign: ____________**
+      **Date: 2020/8/14**,   **Sign: vons**
 
 *  **Content**
     *  Submodule Version
