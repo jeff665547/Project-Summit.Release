@@ -2,7 +2,6 @@
 
 
 
-
 ***Latest Version***
 
 ***Software Spec (Test) Version: USA-v0.2.22***
@@ -19,9 +18,10 @@
 
       **Date: ____________**,   **Sign: ____________**
 
-* [ ] Softwares installed and operations checked.
+* [X] Softwares installed and operations checked.
 
-      **Date: ____________**,   **Sign: ____________**
+      **Date: 2020/11/10**,   **Sign: ___Vons___**
+      send to USA the installation file for updates.
 
 *  **Content**  
     *  Submodule Version  
