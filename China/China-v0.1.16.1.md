@@ -1,8 +1,6 @@
 
 
 
-
-
 ***Latest Version***
 
 ***Software Spec (Test) Version: China-v0.1.16***
@@ -11,7 +9,7 @@
 
 **SUMMIT Server: 10.1.16.2**
 
-* [ ] Testing passed.
+* [x] Testing passed.
 
       **Date:  2020/11/20 **,   **Sign: Silvia, Isla**
 
@@ -21,9 +19,9 @@
 
       **Date: ____________**,   **Sign: ____________**
 
-* [ ] Softwares installed and operations checked.
+* [X] Softwares installed and operations checked.
 
-      **Date: ____________**,   **Sign: ____________**
+      **Date: 2020/11/23**,   **Sign: vons**
 
 *  **Content**  
     *  Submodule Version  
