@@ -2,7 +2,6 @@
 
 
 
-
 ***Latest Version***
 
 ***Software Spec (Test) Version: China-v0.1.16***
@@ -19,9 +18,10 @@
 
       **Date: ____________**,   **Sign: ____________**
 
-* [ ] Softwares installed and operations checked.
+* [x] Softwares installed and operations checked.
 
-      **Date: ____________**,   **Sign: ____________**
+      **Date: 2020/12/16**,   **Sign: vons**
+      finished the update of server 247, summit 594, 694 and 105
 
 *  **Content**  
     *  Submodule Version  
