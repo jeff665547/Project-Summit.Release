@@ -2,7 +2,6 @@
 
 
 
-
 ***Latest Version***
 
 ***Software Spec (Test) Version: China-v0.1.17***
@@ -19,10 +18,10 @@
 
       **Date: ____________**,   **Sign: ____________**
 
-* [ ] Softwares installed and operations checked.
+* [x] Softwares installed and operations checked.
 
-      **Date: ____________**,   **Sign: ____________**
-
+      **Date: 2020/1/26**,   **Sign: vons**
+    
 *  **Content**  
     *  Submodule Version  
         *  Magpie3: **CN-v0.1.17.1**,          Date: **2021/01/22**  
