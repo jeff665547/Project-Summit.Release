@@ -2,7 +2,6 @@
 
 
 
-
 ***Latest Version***
 
 ***Software Spec (Test) Version: USA-v0.2.24***
@@ -19,10 +18,11 @@
 
       **Date: ____________**,   **Sign: ____________**
 
-* [ ] Softwares installed and operations checked.
+* [x] Softwares installed and operations checked.
 
-      **Date: ____________**,   **Sign: ____________**
-
+      **Date: 2021/5/10**,   **Sign: vons**
+    send the installation files to USA for updates
+ 
 *  **Content**  
     *  Submodule Version  
         *  Magpie3: **USA-v0.2.24.0**,          Date: **2021/04/14**  
