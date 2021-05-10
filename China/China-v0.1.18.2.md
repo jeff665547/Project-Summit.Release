@@ -2,7 +2,6 @@
 
 
 
-
 ***Latest Version***
 
 ***Software Spec (Test) Version: China-v0.1.18***
@@ -19,9 +18,10 @@
 
       **Date: ____________**,   **Sign: ____________**
 
-* [ ] Softwares installed and operations checked.
+* [x] Softwares installed and operations checked.
 
-      **Date: ____________**,   **Sign: ____________**
+      **Date: 2021/5/10**,   **Sign: vons**
+    send the installation files for China to updates.
 
 *  **Content**  
     *  Submodule Version  
