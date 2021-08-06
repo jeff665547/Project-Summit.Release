@@ -2,7 +2,6 @@
 
 
 
-
 ***Latest Version***
 
 ***Software Spec (Test) Version: China-v0.1.18***
@@ -28,7 +27,7 @@
         *  Magpie3: **CN-v0.1.18.1**,          Date: **2021/05/19**  
         *  Bamboo-lake3: **CN-v0.1.18.0**,          Date: **2021/4/14**  
         *  Summit.daemon: **CNI-v1.15.64**,          Date: **2021/07/16**  
-        *  Summit.grid: **v1.3.12**,          Date: **2021/05/06**  
+        *  Summit.grid: **v1.3.13**,          Date: **2021/05/06**  
         *  FW: **0C.5.13**
 
     *  Release Notes  
@@ -42,6 +41,7 @@
             2. Feature: DF1000 chip (D1B) support.
   
         *  Summit.grid:
+            1. Feature: DF1000 chip (D1B) support.
   
 * **Software Publish** 
 
