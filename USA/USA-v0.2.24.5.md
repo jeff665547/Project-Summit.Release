@@ -36,13 +36,11 @@
   
         *  Bamboo-lake3:
   
-        *  Summit.daemon:  
+        *  Summit.daemon:
             1. Feature: Improve the speed stability for the new autofocus mechanism.  
             2. Feature: Add some logs for the entire autofocusing mechanism.
   
-        *  Summit.grid:  
-            1. Feature: Jasper chip (J1C, J2C) support.  
-            2. Feature: Generate the log of the gridding program to each chip folder when the corresponding argument (-g / --enable_log) is given in the command line.
+        *  Summit.grid:
   
 * **Software Publish** 
 
